@@ -1,0 +1,3 @@
+# Strona otwarta dla wyszukiwarek i asystentów AI
+User-agent: *
+Allow: /
